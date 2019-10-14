@@ -2,5 +2,9 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello Java!");
+        System.out.println("Hello New world!");
+
+        System.out.println("Hello New world 3!");
+
     }
 }
