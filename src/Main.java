@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Hello New world 5!");
 
+        System.out.println("Last !");
+
     }
 }
