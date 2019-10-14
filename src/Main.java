@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println("Last !");
 
+        System.out.println("Last but not least!");
+
     }
 }
